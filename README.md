@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Haulow 
+🔭 I’m currently working on an app based on OpenAI ChatGPT & DALL-E to create meal recipes based on any given ingredients. This repo is private at this moment 
 
 
 <!--
