@@ -1,8 +1,8 @@
 ### Hi there 👋
   I’m currently working on 
 
-- 🌱 An app based on ASP.NET Core leveraging OpenAI ChatGPT & DALL-E's  APIs to create meal recipes based on any given ingredients.
-- ⚡ Maintaining and adding features to eFluo project (ProbSolv repo).
+- 🌱 A Blazor app deployed in Azure, leveraging OpenAI ChatGPT & DALL-E's  APIs to create meal recipes based on any given ingredients.
+- ⚡ Maintaining and adding features to eFluo project.
 
 
 <!--
