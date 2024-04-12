@@ -1,7 +1,8 @@
 ### Hi there 👋
   I’m currently working on 
 
-- 🌱 A Blazor app deployed in Azure, leveraging OpenAI ChatGPT & DALL-E's  APIs to create meal recipes based on any given ingredients.
+- 💬 A Blazor WebAssemply app deployed in Azure, showing movie trailers and ratings utilizing TMDB API. 
+- 🌱 A Blazor WebAssemply app and ASP.NET Core API deployed in Azure, leveraging OpenAI ChatGPT & DALL-E's  APIs to create meal recipes based on any given ingredients.
 - ⚡ Maintaining and adding features to eFluo project.
 
 
